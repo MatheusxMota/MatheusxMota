@@ -2,7 +2,7 @@
 
 🚀 **Desenvolvedor Full Stack**
 
-Sou um **Desenvolvedor Full Stack** de 26 anos, focado em construir aplicações web modernas e principalmente eficientes. Estou na reta final da minha graduação, com conclusão prevista para o fim de 2026, e busco constantemente transformar ideias em soluções e soluções em sistemas.
+Sou um **Desenvolvedor Full Stack** de 26 anos, focado em construir aplicações web modernas e principalmente eficientes. Estou na reta final da minha graduação, com conclusão prevista para o fim de 2026, e busco constantemente transformar ideias in soluções e soluções em sistemas.
 
 Busco vaga de estágio para me inserir no mercado de trabalho e viver o ambiente de produção.
 
@@ -28,7 +28,6 @@ Busco vaga de estágio para me inserir no mercado de trabalho e viver o ambiente
   <img src="https://github-readme-stats.vercel.app/api?username=MatheusxMota&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Matheus" height="180em" />
 </p>
 
-<!-- Gráfico corrigido no padrão da imagem image_de9e6d.png -->
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusxMota&theme=tokyonight&width=600" alt="Linguagens mais usadas" />
 </p>
