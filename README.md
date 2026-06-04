@@ -1,6 +1,10 @@
 # Olá, eu sou o Matheus Mota! 👋
 
-Sou um **Desenvolvedor Full Stack** de 26 anos, focado em construir aplicações web modernas, eficientes e integradas a ecossistemas de dados. Estou na reta final da minha graduação, com conclusão prevista para o fim de 2026, e busco constantemente transformar requisitos de negócios em soluções de software robustas e escaláveis.
+Sou um **Desenvolvedor Full Stack** de 26 anos, focado em construir aplicações web modernas e principalmente eficientes. 
+Estou na reta final da minha graduação, com conclusão prevista para o fim de 2026, e busco constantemente transformar ideiais em soluções
+e soluções em sistemas.
+
+Busca vaga de estágio para me inserir no mercado de trabalho e viver o ambiente de produção.
 
 ---
 
@@ -51,4 +55,4 @@ Abaixo estão os dados dinâmicos sobre meus commits, atividades e linguagens ma
 
 Estou sempre aberto a novos desafios, projetos e troca de conhecimentos!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](COLE_O_LINK_DO_SEU_LINKEDIN_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/matheusmotadev)
