@@ -24,7 +24,7 @@ Busco vaga de estágio para me inserir no mercado de trabalho e viver o ambiente
 
 ### 📊 Estatísticas
 
-<p align="left">
+<p align="right">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=MatheusxMota&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Matheus" height="180em" />
 </p>
 
