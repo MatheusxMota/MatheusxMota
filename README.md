@@ -2,7 +2,7 @@
 
 🚀 **Desenvolvedor Full Stack**
 
-Sou um **Desenvolvedor Full Stack** de 26 anos, focado em construir aplicações web modernas e principalmente eficientes. Estou na reta final da minha graduação, com conclusão prevista para o fim de 2026, e busco constantemente transformar ideias in soluções e soluções em sistemas.
+Sou um **Desenvolvedor Full Stack** de 26 anos, focado em construir aplicações web modernas e principalmente eficientes. Estou na reta final da minha graduação, com conclusão prevista para o fim de 2026, e busco constantemente transformar ideias em soluções e soluções em sistemas.
 
 Busco vaga de estágio para me inserir no mercado de trabalho e viver o ambiente de produção.
 
