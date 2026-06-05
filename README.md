@@ -25,11 +25,11 @@ Busco vaga de estágio para me inserir no mercado de trabalho e viver o ambiente
 ### 📊 Estatísticas
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatheusxMota&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Matheus" height="180em" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=MatheusxMota&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Matheus" height="180em" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusxMota&theme=tokyonight&width=600" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=MatheusxMota&theme=tokyonight&width=600" alt="Linguagens mais usadas" />
 </p>
 
 📊 **Histórico de Contribuições Mensais:**
