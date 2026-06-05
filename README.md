@@ -6,8 +6,6 @@ Sou um **Desenvolvedor Full Stack** de 26 anos, focado em construir aplicações
 
 Busco vaga de estágio para me inserir no mercado de trabalho e viver o ambiente de produção.
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONECTAR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusmotadev)
-
 ---
 
 ### 🥷 Linguagens e Tecnologias
@@ -45,3 +43,12 @@ Busco vaga de estágio para me inserir no mercado de trabalho e viver o ambiente
 ### 📫 Vamos nos conectar?
 
 Estou sempre aberto a novos desafios, projetos e troca de conhecimentos!
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/matheusmotadev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:matheusxmota@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
