@@ -14,7 +14,6 @@ Busco vaga de estágio para me inserir no mercado de trabalho e viver o ambiente
   <!-- Front-end -->
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,dotnet,blazor,java,spring,postgres,tailwind,angular" alt="Front-end Skills" />
   <span>&nbsp;&nbsp;</span>
-  <!-- Back-end & DB -->
   
 </p>
 
