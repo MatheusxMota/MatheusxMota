@@ -29,9 +29,12 @@ Busco vaga de estágio para me inserir no mercado de trabalho e viver o ambiente
   </tr>
 </table>
 
-📊 **Histórico de Contribuições Mensais:**
+---
+
+### 🟩 Painel de Commits
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusxMota&theme=tokyonight" alt="Streak de Commits do Matheus" width="100%" />
+  <img src="https://ghchart.rshah.org/tokyonight/MatheusxMota" alt="Gráfico de Commits do GitHub de Matheus" width="100%" />
 </p>
 
 ---
