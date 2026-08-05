@@ -12,10 +12,10 @@ Busco vaga de estágio para me inserir no mercado de trabalho e viver o ambiente
 
 <p align="left">
   <!-- Front-end -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind" alt="Front-end Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,angular" alt="Front-end Skills" />
   <span>&nbsp;&nbsp;</span>
   <!-- Back-end & DB -->
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,supabase" alt="Back-end & DB Skills" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,blazor,java,spring,postgres,supabase" alt="Back-end & DB Skills" />
 </p>
 
 ---
